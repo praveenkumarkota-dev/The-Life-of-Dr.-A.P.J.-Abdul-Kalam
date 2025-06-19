@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dcnncsybz/image/upload/v1750330329/Ambedkar_thubnail_lvg77l.png" alt="Banner" style="width:100%;" />
+
 # 🌠 The Life of Dr. A.P.J. Abdul Kalam  
 *A Dedicated Project Honoring the Missile Man of India*
 
