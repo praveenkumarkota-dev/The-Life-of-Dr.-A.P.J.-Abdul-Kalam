@@ -42,7 +42,7 @@ Born out of personal challenges and driven by admiration, this website not only 
 
 ## 🌐 Live Preview
 
-🔗 **[thewhiteangel.ccbp.tech](#)**  
+🔗 **[https//:thewhiteangel.ccbp.tech](#)**  
 *(Link will be updated soon)*
 
 ---
