@@ -6,6 +6,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
 
 ---
@@ -104,19 +105,30 @@ While building this, I wasn’t just learning code — I was reviving belief and
 
 ## 🙏 Special Thanks
 
-- To **Dr. A.P.J. Abdul Kalam** for being a beacon of hope  
-- To my mentors and developer community  
-- To everyone walking a tough path — keep going!
+- To **Dr. A.P.J. Abdul Kalam**, for being a guiding light beyond his lifetime.  
+- To my mentors, friends, and the developer community who supported my journey.  
+- And to every learner walking through tough paths — **you are not alone**.
 
 ---
 
 ## 🤝 Want to Contribute?
 
-You're welcome to collaborate on this meaningful project.
+If you'd like to suggest improvements or collaborate on something meaningful, feel free to:
 
-```bash
-1. Fork the repo  
-2. Create your branch (`git checkout -b feature-xyz`)  
-3. Commit your changes (`git commit -m "Add feature"`)  
-4. Push to GitHub (`git push origin feature-xyz`)  
-5. Open a Pull Request 🚀
+- Fork the repo  
+- Raise an issue  
+- Submit a pull request
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/praveen-kumar-kota/)  
+- 📧 praveenkumarkota.fsd@gmail.com
+
+---
+
+> _"Man needs his difficulties because they are necessary to enjoy success."_  
+> — Dr. A.P.J. Abdul Kalam
+
+---
