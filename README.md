@@ -90,7 +90,7 @@ While building this, I wasn’t just learning code — I was reviving belief and
 
 > _(Add these screenshots in an `/assets` folder in your repo)_
 
-![Hero Section](./assets/hero.png)  
+![Hero Section](./assets/life_of_abdul_kalam_1.png)  
 ![Timeline](./assets/timeline.png)  
 ![Legacy Section](./assets/legacy.png)
 
