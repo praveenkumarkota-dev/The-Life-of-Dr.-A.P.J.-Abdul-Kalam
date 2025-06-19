@@ -40,7 +40,7 @@ Born out of personal challenges and driven by admiration, this website not only 
 
 ## 🌐 Live Preview
 
-🔗 **[Click here to view the live website](#)**  
+🔗 **[thewhiteangel.ccbp.tech](#)**  
 *(Link will be updated soon)*
 
 ---
@@ -71,7 +71,7 @@ Crafted with a **mobile-first approach**, this website adjusts beautifully acros
 - 📅 **Timeline Section** highlighting his milestones  
 - 🖼️ **Gallery** showcasing memorable moments  
 - 🌈 **Legacy and Inspiration** section with motivational quotes  
-- 📝 **Dream Form** where users can input their own dreams
+- 📝 **Dream Form** where users can input their dreams
 
 ---
 
